@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: jetbot_pro
+Description: Description of jetbot_pro
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

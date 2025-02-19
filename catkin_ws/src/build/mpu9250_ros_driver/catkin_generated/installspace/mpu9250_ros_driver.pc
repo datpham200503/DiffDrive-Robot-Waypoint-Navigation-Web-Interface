@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: mpu9250_ros_driver
+Description: Description of mpu9250_ros_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/dat/catkin_ws/src/build/devel
+
+Name: mpu9250_imu_converter
+Description: Description of mpu9250_imu_converter
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

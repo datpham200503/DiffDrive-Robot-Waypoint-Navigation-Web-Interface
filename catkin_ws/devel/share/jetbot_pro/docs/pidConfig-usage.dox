@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="jetbot_pro" pkg="jetbot_pro" type="jetbot_pro">
+  <param name="kp" type="int" value="350" />
+  <param name="ki" type="int" value="120" />
+  <param name="kd" type="int" value="0" />
+</node>
+\endverbatim
+

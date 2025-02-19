@@ -1,0 +1,8 @@
+prefix=/home/dat/catkin_ws/src/build/devel
+
+Name: mpu9250_ros_driver
+Description: Description of mpu9250_ros_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

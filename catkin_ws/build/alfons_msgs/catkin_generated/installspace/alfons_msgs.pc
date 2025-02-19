@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/install
+
+Name: alfons_msgs
+Description: Description of alfons_msgs
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp message_runtime std_msgs geometry_msgs

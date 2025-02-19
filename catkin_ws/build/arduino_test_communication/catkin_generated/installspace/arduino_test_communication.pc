@@ -1,0 +1,8 @@
+prefix=/home/dat/catkin_ws/install
+
+Name: arduino_test_communication
+Description: Description of arduino_test_communication
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

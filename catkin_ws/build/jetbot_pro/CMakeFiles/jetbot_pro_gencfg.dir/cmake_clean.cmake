@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/jetbot_pro_gencfg"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/pidConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/pidConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/pidConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/pidConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/pidConfig.wikidoc"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/CalibrateLinearConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/CalibrateLinearConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/CalibrateLinearConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/CalibrateLinearConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/CalibrateLinearConfig.wikidoc"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/CalibrateAngularConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/CalibrateAngularConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/CalibrateAngularConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/CalibrateAngularConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/CalibrateAngularConfig.wikidoc"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/laserFilterConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserFilterConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserFilterConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserFilterConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserFilterConfig.wikidoc"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/laserAvoidanceConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserAvoidanceConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserAvoidanceConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserAvoidanceConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserAvoidanceConfig.wikidoc"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/laserWarningConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserWarningConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserWarningConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserWarningConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserWarningConfig.wikidoc"
+  "/home/dat/catkin_ws/devel/include/jetbot_pro/laserTrackingConfig.h"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserTrackingConfig.dox"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserTrackingConfig-usage.dox"
+  "/home/dat/catkin_ws/devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserTrackingConfig.py"
+  "/home/dat/catkin_ws/devel/share/jetbot_pro/docs/laserTrackingConfig.wikidoc"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/jetbot_pro_gencfg.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

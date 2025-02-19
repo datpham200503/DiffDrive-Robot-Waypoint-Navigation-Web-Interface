@@ -1,0 +1,11 @@
+\subsubsection usage Usage
+\verbatim
+<node name="jetbot_pro" pkg="jetbot_pro" type="jetbot_pro">
+  <param name="kp" type="double" value="2.0" />
+  <param name="kd" type="double" value="2.0" />
+  <param name="laserAngle" type="int" value="120" />
+  <param name="distance" type="double" value="0.5" />
+  <param name="start" type="bool" value="True" />
+</node>
+\endverbatim
+

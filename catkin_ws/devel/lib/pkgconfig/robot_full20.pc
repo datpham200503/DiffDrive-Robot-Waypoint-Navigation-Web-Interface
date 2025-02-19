@@ -1,0 +1,8 @@
+prefix=/home/dat/catkin_ws/devel
+
+Name: robot_full20
+Description: Description of robot_full20
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

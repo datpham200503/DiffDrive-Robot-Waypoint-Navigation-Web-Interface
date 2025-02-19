@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<robot name="turtlebot3_myRobot" xmlns:xacro="http://ros.org/wiki/xacro">
+  <xacro:include filename="$(find turtlebot3_description)/urdf/common_properties.xacro"/>
+  <xacro:include filename="$(find turtlebot3_description)/urdf/turtlebot3_myRobot.gazebo.xacro"/>
+
+  <link name="base_footprint"/>
+
+  <joint
+    name="base_joint"
+    type="fixed">
+    <origin
+      xyz="0 0 0"
+      rpy="0 0 0" />
+    <parent
+      link="base_footprint" />
+    <child
+      link="base_link" />
+    <axis
+      xyz="0 0 0" />
+  </joint>
+
+  <link name="base_link">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://mobile_robot/meshes/base_link.STL" />
+      </geometry>
+      <material name="">
+        <color rgba="0.4 0.4 0.4 1" />
+      </material>
+    </visual>
+    <inertial>
+      <origin xyz="0.00606302552867435 -8.17008148045542E-05 -0.0364234840571013" rpy="0 0 0" />
+      <mass value="1.55024119711178" />
+      <inertia
+        ixx="0.000839765192137414"
+        ixy="-8.00265786536251E-07"
+        ixz="0.000158189979521902"
+        iyy="0.00125470414853851"
+        iyz="-3.08023962335364E-06"
+        izz="0.0013450839021163" />
+    </inertial>
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://mobile_robot/meshes/base_link.STL" />
+      </geometry>
+    </collision>
+  </link>
+
+  <link name="left_Link">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://mobile_robot/meshes/left_wheel.STL" />
+      </geometry>
+      <material name="">
+        <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <inertial>
+      <origin xyz="4.28767243931816E-10 -0.00153990775115266 -6.86695589280362E-10" rpy="0 0 0" />
+      <mass value="0.0351748276981322" />
+      <inertia
+        ixx="1.52376034131887E-05"
+        ixy="4.87494022893268E-14"
+        ixz="1.55341040665938E-10"
+        iyy="2.57858861550243E-05"
+        iyz="-6.38497913514686E-14"
+        izz="1.52366591121853E-05" />
+    </inertial>
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://mobile_robot/meshes/left_wheel.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="left_wheel_joint" type="continuous">
+    <origin xyz="-0.012445 0.067425 -0.1619" rpy="0 0 0" />
+    <parent link="base_link" />
+    <child link="left_Link" />
+    <axis xyz="0 -1 0" />
+    <limit effort="1" velocity="1" />
+  </joint>
+  <link name="right_Link">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://mobile_robot/meshes/right_wheel.STL" />
+      </geometry>
+      <material name="">
+        <color rgba="0.792156862745098 0.819607843137255 0.933333333333333 1" />
+      </material>
+    </visual>
+    <inertial>
+      <origin xyz="-1.6662754509511E-11 0.00153990775115254 8.09391442757601E-10" rpy="0 0 0" />
+      <mass value="0.0351748276981308" />
+      <inertia
+        ixx="1.52374631575614E-05"
+        ixy="-5.88633093336098E-15"
+        ixz="3.70003685728657E-10"
+        iyy="2.57858861550235E-05"
+        iyz="-8.01164843291368E-14"
+        izz="1.52367993678117E-05" />
+    </inertial>
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0" />
+      <geometry>
+        <mesh filename="package://mobile_robot/meshes/right_wheel.STL" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="right_wheel_joint" type="continuous">
+    <parent link="base_link" />
+    <child link="right_Link" />
+    <origin xyz="-0.012445 -0.067475 -0.1619" rpy="0 0 0" />
+    <axis xyz="0 -1 0" />
+    <limit effort="1" velocity="1" />
+  </joint>
+
+  <joint name="imu_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="imu_link"/>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+
+  <link name="imu_link"/>
+
+  <joint name="scan_joint" type="fixed">
+    <parent link="base_link"/>
+    <child link="base_scan"/>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+
+  <link name="base_scan"/>
+
+</robot>

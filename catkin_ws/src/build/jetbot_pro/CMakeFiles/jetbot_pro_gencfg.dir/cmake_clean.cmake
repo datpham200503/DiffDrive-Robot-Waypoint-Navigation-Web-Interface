@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/jetbot_pro_gencfg"
+  "../devel/include/jetbot_pro/pidConfig.h"
+  "../devel/share/jetbot_pro/docs/pidConfig.dox"
+  "../devel/share/jetbot_pro/docs/pidConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/pidConfig.py"
+  "../devel/share/jetbot_pro/docs/pidConfig.wikidoc"
+  "../devel/include/jetbot_pro/CalibrateLinearConfig.h"
+  "../devel/share/jetbot_pro/docs/CalibrateLinearConfig.dox"
+  "../devel/share/jetbot_pro/docs/CalibrateLinearConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/CalibrateLinearConfig.py"
+  "../devel/share/jetbot_pro/docs/CalibrateLinearConfig.wikidoc"
+  "../devel/include/jetbot_pro/CalibrateAngularConfig.h"
+  "../devel/share/jetbot_pro/docs/CalibrateAngularConfig.dox"
+  "../devel/share/jetbot_pro/docs/CalibrateAngularConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/CalibrateAngularConfig.py"
+  "../devel/share/jetbot_pro/docs/CalibrateAngularConfig.wikidoc"
+  "../devel/include/jetbot_pro/laserFilterConfig.h"
+  "../devel/share/jetbot_pro/docs/laserFilterConfig.dox"
+  "../devel/share/jetbot_pro/docs/laserFilterConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserFilterConfig.py"
+  "../devel/share/jetbot_pro/docs/laserFilterConfig.wikidoc"
+  "../devel/include/jetbot_pro/laserAvoidanceConfig.h"
+  "../devel/share/jetbot_pro/docs/laserAvoidanceConfig.dox"
+  "../devel/share/jetbot_pro/docs/laserAvoidanceConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserAvoidanceConfig.py"
+  "../devel/share/jetbot_pro/docs/laserAvoidanceConfig.wikidoc"
+  "../devel/include/jetbot_pro/laserWarningConfig.h"
+  "../devel/share/jetbot_pro/docs/laserWarningConfig.dox"
+  "../devel/share/jetbot_pro/docs/laserWarningConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserWarningConfig.py"
+  "../devel/share/jetbot_pro/docs/laserWarningConfig.wikidoc"
+  "../devel/include/jetbot_pro/laserTrackingConfig.h"
+  "../devel/share/jetbot_pro/docs/laserTrackingConfig.dox"
+  "../devel/share/jetbot_pro/docs/laserTrackingConfig-usage.dox"
+  "../devel/lib/python2.7/dist-packages/jetbot_pro/cfg/laserTrackingConfig.py"
+  "../devel/share/jetbot_pro/docs/laserTrackingConfig.wikidoc"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/jetbot_pro_gencfg.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

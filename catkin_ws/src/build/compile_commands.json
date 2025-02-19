@@ -1,0 +1,257 @@
+[
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_client",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROS_BUILD_SHARED_LIBS=1 -I/home/dat/catkin_ws/src/rosserial/rosserial_client/src -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/float64_test.dir/test/float64_test.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_client/test/float64_test.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_client/test/float64_test.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_client",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROS_BUILD_SHARED_LIBS=1 -I/home/dat/catkin_ws/src/rosserial/rosserial_client/src -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/subscriber_test.dir/test/subscriber_test.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_client/test/subscriber_test.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_client/test/subscriber_test.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_geotiff",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_geotiff\\\" -I/home/dat/catkin_ws/src/hector_slam/hector_geotiff/include -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=gnu++14 -o CMakeFiles/geotiff_saver.dir/src/geotiff_saver.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_geotiff/src/geotiff_saver.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_geotiff/src/geotiff_saver.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_geotiff",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_geotiff\\\" -Dgeotiff_writer_EXPORTS -I/home/dat/catkin_ws/src/hector_slam/hector_geotiff/include -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++  -g -fPIC   -fPIC -std=gnu++14 -o CMakeFiles/geotiff_writer.dir/src/geotiff_writer/geotiff_writer.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_geotiff/src/geotiff_writer/geotiff_writer.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_geotiff/src/geotiff_writer/geotiff_writer.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_geotiff",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_geotiff\\\" -I/home/dat/catkin_ws/src/hector_slam/hector_geotiff/include -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=gnu++14 -o CMakeFiles/geotiff_node.dir/src/geotiff_node.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_geotiff/src/geotiff_node.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_geotiff/src/geotiff_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_geotiff_plugins",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_geotiff_plugins\\\" -Dhector_geotiff_plugins_EXPORTS -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_geotiff/include -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -isystem /usr/include/aarch64-linux-gnu/qt5 -isystem /usr/include/aarch64-linux-gnu/qt5/QtWidgets -isystem /usr/include/aarch64-linux-gnu/qt5/QtGui -isystem /usr/include/aarch64-linux-gnu/qt5/QtCore -isystem /usr/lib/aarch64-linux-gnu/qt5/mkspecs/linux-g++  -g -fPIC   -fPIC -std=gnu++11 -o CMakeFiles/hector_geotiff_plugins.dir/src/trajectory_geotiff_plugin.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_geotiff_plugins/src/trajectory_geotiff_plugin.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_geotiff_plugins/src/trajectory_geotiff_plugin.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rosserial_server\\\" -I/home/dat/catkin_ws/src/rosserial/rosserial_server/include -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/rosserial_server_socket_node.dir/src/socket_node.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_server/src/socket_node.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_server/src/socket_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rosserial_server\\\" -I/home/dat/catkin_ws/src/rosserial/rosserial_server/include -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/rosserial_server_udp_socket_node.dir/src/udp_socket_node.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_server/src/udp_socket_node.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_server/src/udp_socket_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rosserial_server\\\" -Drosserial_server_lookup_EXPORTS -I/home/dat/catkin_ws/src/rosserial/rosserial_server/include -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/python2.7  -g -fPIC   -o CMakeFiles/rosserial_server_lookup.dir/src/msg_lookup.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_server/src/msg_lookup.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_server/src/msg_lookup.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rosserial_server\\\" -I/home/dat/catkin_ws/src/rosserial/rosserial_server/include -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/rosserial_server_serial_node.dir/src/serial_node.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_server/src/serial_node.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_server/src/serial_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_compressed_map_transport",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_compressed_map_transport\\\" -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/include/opencv4  -g   -o CMakeFiles/map_to_image_node.dir/src/map_to_image_node.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_compressed_map_transport/src/map_to_image_node.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_compressed_map_transport/src/map_to_image_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNodeClient.dir/src/client.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/src/client.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/src/client.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/src/node.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/src/node.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/src/node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_serial.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/arch/linux/net_serial.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/net_socket.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/arch/linux/net_socket.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/arch/linux/net_socket.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/arch/linux/timer.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/arch/linux/timer.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/arch/linux/timer.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/dataunpacker/dataunpacker.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/dataunpacker.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/dataunpacker.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/dataunpacker/unpacker/handler_capsules.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/unpacker/handler_capsules.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/unpacker/handler_capsules.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/dataunpacker/unpacker/handler_hqnode.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/unpacker/handler_hqnode.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/unpacker/handler_hqnode.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/dataunpacker/unpacker/handler_normalnode.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/unpacker/handler_normalnode.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/dataunpacker/unpacker/handler_normalnode.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/hal/thread.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/hal/thread.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/hal/thread.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/rplidar_driver.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/rplidar_driver.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/rplidar_driver.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_async_transceiver.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_async_transceiver.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_async_transceiver.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_crc.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_crc.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_crc.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_lidar_driver.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_lidar_driver.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_lidar_driver.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_lidarprotocol_codec.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_lidarprotocol_codec.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_lidarprotocol_codec.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_serial_channel.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_serial_channel.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_serial_channel.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_tcp_channel.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_tcp_channel.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_tcp_channel.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rplidar_ros",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rplidar_ros\\\" -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/include -I/home/dat/catkin_ws/src/rplidar_ros/./sdk/src -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -std=c++11  -O3 -DNDEBUG   -o CMakeFiles/rplidarNode.dir/sdk/src/sl_udp_channel.cpp.o -c /home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_udp_channel.cpp",
+  "file": "/home/dat/catkin_ws/src/rplidar_ros/sdk/src/sl_udp_channel.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_imu_attitude_to_tf",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_imu_attitude_to_tf\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/imu_attitude_to_tf_node.dir/src/imu_attitude_to_tf_node.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_imu_attitude_to_tf/src/imu_attitude_to_tf_node.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_imu_attitude_to_tf/src/imu_attitude_to_tf_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_imu_tools",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_imu_tools\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/pose_and_orientation_to_imu_node.dir/src/pose_and_orientation_to_imu_node.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_imu_tools/src/pose_and_orientation_to_imu_node.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_imu_tools/src/pose_and_orientation_to_imu_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_map_server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_map_server\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/home/dat/catkin_ws/src/hector_slam/hector_marker_drawing/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/hector_map_server.dir/src/hector_map_server.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_map_server/src/hector_map_server.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_map_server/src/hector_map_server.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_trajectory_server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_trajectory_server\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_map_tools/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/hector_trajectory_server.dir/src/hector_trajectory_server.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_trajectory_server/src/hector_trajectory_server.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_trajectory_server/src/hector_trajectory_server.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/jetbot_pro",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"jetbot_pro\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/jetbot.dir/src/jetbot.cpp.o -c /home/dat/catkin_ws/src/jetbot_pro/src/jetbot.cpp",
+  "file": "/home/dat/catkin_ws/src/jetbot_pro/src/jetbot.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/localization_data_pub",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"localization_data_pub\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/local/lib  -g   -std=c++11 -o CMakeFiles/ekf_odom_pub.dir/src/ekf_odom_pub.cpp.o -c /home/dat/catkin_ws/src/localization_data_pub/src/ekf_odom_pub.cpp",
+  "file": "/home/dat/catkin_ws/src/localization_data_pub/src/ekf_odom_pub.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/localization_data_pub",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"localization_data_pub\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/local/lib  -g   -std=c++11 -o CMakeFiles/rviz_click_to_2d.dir/src/rviz_click_to_2d.cpp.o -c /home/dat/catkin_ws/src/localization_data_pub/src/rviz_click_to_2d.cpp",
+  "file": "/home/dat/catkin_ws/src/localization_data_pub/src/rviz_click_to_2d.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/riotu_robot_pose_publisher",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"riotu_robot_pose_publisher\\\" -I/home/dat/catkin_ws/src/riotu_robot_pose_publisher/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/riotu_robot_pose_publisher.dir/src/robot_pose_publisher.cpp.o -c /home/dat/catkin_ws/src/riotu_robot_pose_publisher/src/robot_pose_publisher.cpp",
+  "file": "/home/dat/catkin_ws/src/riotu_robot_pose_publisher/src/robot_pose_publisher.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/rosserial/rosserial_test",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"rosserial_test\\\" -I/home/dat/catkin_ws/src/rosserial/rosserial_test/include -I/home/dat/catkin_ws/src/build/rosserial/rosserial_test/include -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/rosserial/rosserial_server/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/src/googletest/googletest/include  -g   -o CMakeFiles/rosserial_test_publish_subscribe.dir/src/publish_subscribe.cpp.o -c /home/dat/catkin_ws/src/rosserial/rosserial_test/src/publish_subscribe.cpp",
+  "file": "/home/dat/catkin_ws/src/rosserial/rosserial_test/src/publish_subscribe.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_mapping",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_mapping\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_mapping/include/hector_slam_lib -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/hector_mapping.dir/src/HectorMappingRos.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_mapping/src/HectorMappingRos.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_mapping/src/HectorMappingRos.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_mapping",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_mapping\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_mapping/include/hector_slam_lib -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/hector_mapping.dir/src/main.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_mapping/src/main.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_mapping/src/main.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/hector_slam/hector_mapping",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"hector_mapping\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/home/dat/catkin_ws/src/hector_slam/hector_mapping/include/hector_slam_lib -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3  -g   -o CMakeFiles/hector_mapping.dir/src/PoseInfoContainer.cpp.o -c /home/dat/catkin_ws/src/hector_slam/hector_mapping/src/PoseInfoContainer.cpp",
+  "file": "/home/dat/catkin_ws/src/hector_slam/hector_mapping/src/PoseInfoContainer.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/turtlebot3/turtlebot3_bringup",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"turtlebot3_bringup\\\" -I/home/dat/catkin_ws/src/build/devel/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/turtlebot3_diagnostics.dir/src/turtlebot3_diagnostics.cpp.o -c /home/dat/catkin_ws/src/turtlebot3/turtlebot3_bringup/src/turtlebot3_diagnostics.cpp",
+  "file": "/home/dat/catkin_ws/src/turtlebot3/turtlebot3_bringup/src/turtlebot3_diagnostics.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/turtlebot3/turtlebot3_slam",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"turtlebot3_slam\\\" -I/home/dat/catkin_ws/src/turtlebot3/turtlebot3_slam/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/flat_world_imu_node.dir/src/flat_world_imu_node.cpp.o -c /home/dat/catkin_ws/src/turtlebot3/turtlebot3_slam/src/flat_world_imu_node.cpp",
+  "file": "/home/dat/catkin_ws/src/turtlebot3/turtlebot3_slam/src/flat_world_imu_node.cpp"
+},
+{
+  "directory": "/home/dat/catkin_ws/src/build/mobile_robot",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mobile_robot\\\" -I/home/dat/catkin_ws/src/mobile_robot/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -std=c++11 -o CMakeFiles/robot_controller.dir/src/robot_controller.cpp.o -c /home/dat/catkin_ws/src/mobile_robot/src/robot_controller.cpp",
+  "file": "/home/dat/catkin_ws/src/mobile_robot/src/robot_controller.cpp"
+}
+]
